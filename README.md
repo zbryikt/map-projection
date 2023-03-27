@@ -1,3 +1,9 @@
+adopted from https://gist.github.com/syntagmatic/ba569633d51ebec6ec6e. for online viewing purpose only.
+
+original readme as below:
+
+----
+
 A mashup of [Map Projection Distortions](http://bl.ocks.org/3709000) and [transitions](http://bl.ocks.org/mbostock/3711652) using the [D3.js extended geographic projections plugin](https://github.com/d3/d3-geo-projection/).
 
 A comparison of map projections by four different types of distortion:
